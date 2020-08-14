@@ -1,0 +1,6 @@
+{
+    "aws": {
+        "region": "<AWS region>",
+        "endpoint": "<AWS MediaConvert Account API endpoint>"
+    }
+}
